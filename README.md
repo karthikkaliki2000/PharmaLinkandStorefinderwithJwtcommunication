@@ -1,0 +1,1 @@
+"# PharmaLinkandStorefinderwithJwtcommunication" 
